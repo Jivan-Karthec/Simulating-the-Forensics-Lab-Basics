@@ -1,6 +1,4 @@
 # Simulating the Forensics Lab Basics
-## Name : Jivan Karthec B S
-## REG NO : 212222100017
 
 ## Aim :
    To install VirtualBox and set up a virtual machine(Kali Linux), install Autopsy and Sleuth Kit, and use them for forensic investigation by analyzing disk storage and file system.
