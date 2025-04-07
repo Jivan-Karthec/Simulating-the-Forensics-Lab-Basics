@@ -64,7 +64,8 @@
 
 ### **Virtual Box:**
 
-![image](https://github.com/user-attachments/assets/9ff4519c-8aaa-4438-949b-1a91051644b9)
+![image](https://github.com/user-attachments/assets/5e3402ee-2321-4a68-9f26-63a5c73615ed)
+
 
 
 ---
