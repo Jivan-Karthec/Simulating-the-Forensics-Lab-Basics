@@ -72,7 +72,8 @@
 
 ### **Virtual Machine (Kali Linux)**
 
-![image](https://github.com/user-attachments/assets/b8c5392f-c1ef-4490-ac5c-15ca308a8133)
+![image](https://github.com/user-attachments/assets/58194f82-fa92-415a-b327-d9b574171bbe)
+
 
 
 
